@@ -4,8 +4,6 @@ repo: status.zvonydudas.sk
 sites:
   - name: ZvonyDudas API
     url: https://api-v2.zvonydudas.sk/
-  - name: non functioning web test
-    url: https://api.zvonydudas.sk/
 
 status-website:
   cname: status.zvonydudas.sk
