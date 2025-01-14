@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 544,
-    "timeDay": 544,
-    "timeWeek": 544,
-    "timeMonth": 544,
-    "timeYear": 544,
+    "time": 528,
+    "timeDay": 528,
+    "timeWeek": 528,
+    "timeMonth": 528,
+    "timeYear": 528,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "non functioning web test",
-    "url": "https://api.zvonydudas.sk/",
-    "icon": "https://icons.duckduckgo.com/ip3/api.zvonydudas.sk.ico",
-    "slug": "non-functioning-web-test",
-    "status": "down",
-    "uptime": "80.77%",
-    "uptimeDay": "80.77%",
-    "uptimeWeek": "80.77%",
-    "uptimeMonth": "80.77%",
-    "uptimeYear": "80.77%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-01-14": 0
-    }
   }
 ]
