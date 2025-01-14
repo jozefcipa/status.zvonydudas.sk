@@ -8,7 +8,9 @@ sites:
 status-website:
   cname: status.zvonydudas.sk
   theme: light
+  name: Status | Zvony Dudáš
   logoUrl: https://zvonydudas.sk/img/logo.jpg
+  favicon: https://zvonydudas.sk/favicon.ico
   navbar:
     - title: zvonydudas.sk
       href: https://zvonydudas.sk
