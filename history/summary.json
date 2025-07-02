@@ -4,17 +4,19 @@
     "url": "https://api-v2.zvonydudas.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/api-v2.zvonydudas.sk.ico",
     "slug": "zvony-dudas-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 675,
-    "timeDay": 772,
-    "timeWeek": 754,
-    "timeMonth": 697,
-    "timeYear": 675,
-    "dailyMinutesDown": {}
+    "time": 674,
+    "timeDay": 633,
+    "timeWeek": 721,
+    "timeMonth": 691,
+    "timeYear": 674,
+    "dailyMinutesDown": {
+      "2025-07-02": 5
+    }
   }
 ]
