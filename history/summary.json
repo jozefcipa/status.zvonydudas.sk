@@ -6,17 +6,16 @@
     "slug": "zvony-dudas-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 674,
-    "timeDay": 469,
-    "timeWeek": 556,
-    "timeMonth": 647,
-    "timeYear": 674,
+    "time": 673,
+    "timeDay": 514,
+    "timeWeek": 564,
+    "timeMonth": 644,
+    "timeYear": 673,
     "dailyMinutesDown": {
-      "2025-08-30": 5,
       "2025-08-24": 20
     }
   }
