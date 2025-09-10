@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-v2.zvonydudas.sk.ico",
     "slug": "zvony-dudas-api",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.96%",
+    "uptimeDay": "92.08%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.96%",
     "time": 672,
     "timeDay": 751,
     "timeWeek": 670,
     "timeMonth": 644,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2025-09-09": 0,
+      "2025-09-10": 107,
+      "2025-09-09": 7,
       "2025-08-24": 20
     }
   }
