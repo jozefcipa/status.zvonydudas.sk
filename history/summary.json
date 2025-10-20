@@ -4,7 +4,7 @@
     "url": "https://api-v2.zvonydudas.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/api-v2.zvonydudas.sk.ico",
     "slug": "zvony-dudas-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 744,
     "timeYear": 680,
     "dailyMinutesDown": {
+      "2025-10-20": 0,
       "2025-09-13": 17,
       "2025-09-11": 1302,
       "2025-09-10": 1440,
